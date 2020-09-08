@@ -1,5 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackdow123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jackdow123&show_icons=true&theme=buefy)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jackdow123&show_icons=true&theme=buefy)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jackdow123)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
