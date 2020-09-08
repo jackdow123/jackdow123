@@ -1,5 +1,4 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jackdow123&show_icons=true&theme=buefy)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jackdow123)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jackdow123/jackdow123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
